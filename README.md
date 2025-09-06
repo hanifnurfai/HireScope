@@ -8,7 +8,7 @@ HireScope adalah proyek capstone yang mengintegrasikan model IBM Granite untuk m
 HireScope adalah sistem screening kandidat berbasis LLM yang memanfaatkan IBM Granite untuk merangkum, mengklasifikasi, dan menilai CV secara otomatis. Dirancang untuk membantu HRD dalam proses rekrutmen awal, HireScope menyajikan insight objektif dan actionable dari ratusan CV dalam waktu singkat.
 
 ## 📂 Dataset
-Dataset yang digunakan: [Resume Dataset - Kaggle](https://www.kaggle.com/datasets/snehankekre/resume-dataset)
+Dataset yang digunakan: [Resume Dataset - Kaggle](https://www.kaggle.com/datasets/mdtalhask/ai-powered-resume-screening-dataset-2025)
 
 ## 🔍 Analysis Process
 1. Data Collection
