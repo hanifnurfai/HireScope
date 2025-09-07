@@ -29,7 +29,7 @@ Dari 20 sample dataset yang diberikan hasil menunjukan:
 * **Analisis Kesalahan (Confusion Matrix):** Model memiliki **4** *False Negatives* (kandidat cocok yang salah diklasifikasi sebagai tidak cocok) dan **2** *False Positives* (kandidat tidak cocok yang salah diklasifikasi sebagai cocok).
 
 ### ***Gambar Matrix Confusion***
-![Gambar Matrix Confusion](img\matrix_confusion.png)
+![Gambar Matrix Confusion](img/matrix_confusion.png)
 
 ---
 
